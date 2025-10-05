@@ -1,0 +1,2 @@
+- Always use bun in this project
+- the subagents are in @agent/.claude/agents
